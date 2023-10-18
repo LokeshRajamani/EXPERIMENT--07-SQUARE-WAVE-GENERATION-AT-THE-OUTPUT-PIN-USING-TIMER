@@ -113,35 +113,32 @@ HAL_TIM_PWM_Start(&htim2,TIM_CHANNEL_1);
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ### DEVELOPED BY: LOKESH R
 ### REG NO: 212222240055
-# FOR PULSE AT 500
+# FOR PULSE AT 50
 ```
-Total Time period =4.1ms
-TON = 2ms
-TOFF= 2ms
+Total Time period = 2.5ms
+TON = 1.25ms
+TOFF= 1.25ms
 TOTAL TIME = 4 
 FREQUENCY = 1/(TOTAL TIME)
-= 1/(410^-3)
-= 250Hz
+= 5
 ```
-## FOR PULSE AT 700
+## FOR PULSE AT 60
 ```
-Total Time period = 3.11ms
-TON =  2.17ms
-TOFF= 0.93ms
-TOTAL TIME = 3.1 
+Total Time period = 2.5ms
+TON =  1.5ms
+TOFF= 1ms
+TOTAL TIME =2.5ms 
 FREQUENCY = 1/(TOTAL TIME)
-= 1/(3.110^-3)
-= 322.58Hz
+= 4
 ```
-## FOR PULSE AT 900
+## FOR PULSE AT 70
 ```
-Total Time period = 3.21ms
-TON = 2.88ms
-TOFF= 0.32ms
-TOTAL TIME = 3.2 
-FREQUENCY = 1/(TOTAL TIME)
-= 1/(3.210^-30
-= 312.5Hz
+Total Time period = 2.5ms
+TON = 1.75ms
+TOFF= 0.75ms
+TOTAL TIME = 2.5ms 
+FREQU+ENCY = 1/(TOTAL TIME)
+= 4
 ```
 
 ## Result :
