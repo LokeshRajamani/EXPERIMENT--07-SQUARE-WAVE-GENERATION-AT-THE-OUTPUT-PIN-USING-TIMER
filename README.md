@@ -239,19 +239,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-
-
-
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![Screenshot 2023-10-11 142908](https://github.com/22002525karthikeyan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/118708040/b6825b0b-e0fd-4939-bc4f-fb5ebcb8322a)
-
-
-
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 ### DEVELOPED BY: LOKESH R
 ### REG NO: 212222240055
 # FOR PULSE AT 50
+![ex777](https://github.com/LokeshRajamani/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/120544804/4b469c13-9409-444c-a469-38677cb11a40)
 ```
 Total Time period = 2.5ms
 TON = 1.25ms
@@ -260,7 +252,8 @@ TOTAL TIME = 4
 FREQUENCY = 1/(TOTAL TIME)
 = 5
 ```
-## FOR PULSE AT 60
+## FOR PULSE AT 70
+![ex77](https://github.com/LokeshRajamani/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/120544804/0a29c8e8-4bd0-480c-bea6-85e8962d3010)
 ```
 Total Time period = 2.5ms
 TON =  1.5ms
@@ -269,7 +262,8 @@ TOTAL TIME =2.5ms
 FREQUENCY = 1/(TOTAL TIME)
 = 4
 ```
-## FOR PULSE AT 70
+## FOR PULSE AT 90
+![ex7](https://github.com/LokeshRajamani/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/120544804/a30e20fb-7551-41f9-8766-dde1c88dee61)
 ```
 Total Time period = 2.5ms
 TON = 1.75ms
@@ -278,6 +272,8 @@ TOTAL TIME = 2.5ms
 FREQU+ENCY = 1/(TOTAL TIME)
 = 4
 ```
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
+![ex 77777](https://github.com/LokeshRajamani/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/120544804/6995063c-59a2-4474-b798-33e3b52b344a)
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
