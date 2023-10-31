@@ -94,6 +94,10 @@ Step14. click on debug and simulate using simulation as shown below
  
 ## STM 32 CUBE PROGRAM :
 ```
+DEVELOPED BY: LOKESH R
+REG NO: 212222240055
+```
+```
 #include "main.h"
 
 TIM_HandleTypeDef htim1;
